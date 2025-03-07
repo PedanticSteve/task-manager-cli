@@ -55,9 +55,9 @@ Enter task number to complete: 1
 1. Finish project report - ✔️
 ```
 ### 🎯 Future Improvements
-✅ Add due dates to tasks
-✅ Implement categories for tasks
-✅ Create a GUI version
+- ✅ Add due dates to tasks
+- ✅ Implement categories for tasks
+- ✅ Create a GUI version
 
 ### 🤝 Contributing
 Pull requests are welcome!
